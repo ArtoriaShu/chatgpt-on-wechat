@@ -59,7 +59,7 @@ available_setting ={
     "chat_stop_time": "24:00", # 服务结束时间
 
     # itchat的配置
-    "hot_reload": False, # 是否开启热重载
+    "hot_reload": True, # 是否开启热重载
 
     # wechaty的配置
     "wechaty_puppet_service_token": "", # wechaty的token
